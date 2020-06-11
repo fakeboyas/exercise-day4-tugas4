@@ -1,0 +1,19 @@
+.container-one {
+  display: flex;
+}
+
+.soal1 {
+  flex: 1;
+}
+
+.soal2 {
+  flex: 1;
+}
+
+.soal3 {
+  flex: 1;
+}
+
+.soal4 {
+  flex: 1;
+}
